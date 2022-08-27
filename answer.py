@@ -5,7 +5,7 @@ def hello_world():
     """
 
     # Comment the following line
-    # comment this line
+    Comment this line
 
     # Print "Hello, World"
     print()
@@ -13,6 +13,6 @@ def hello_world():
 def add(a,b):
 
     # Write simple code to add variable a and b
-    output=a+b
+    output=
 
     return output
