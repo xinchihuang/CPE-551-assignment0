@@ -13,6 +13,6 @@ def hello_world():
 def add(a,b):
 
     # Write simple code to add variable a and b
-    output=
+    output=a+b
 
     return output
