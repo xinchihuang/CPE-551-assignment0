@@ -5,7 +5,7 @@ def hello_world():
     """
 
     # Comment the following line
-    Comment this line
+   # Comment this line
 
     # Print "Hello, World"
     print("A")
