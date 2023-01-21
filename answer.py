@@ -8,7 +8,7 @@ def hello_world():
     Comment this line
 
     # Print "Hello, World"
-    print()
+    print("A")
 
 def add(a,b):
 
